@@ -1,3 +1,3 @@
 # minics
 html css project
-https://abalnayem.github.io/minics/
+https://nayem-dev.github.io/minics/
